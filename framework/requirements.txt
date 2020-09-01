@@ -1,0 +1,5 @@
+pycryptodome
+cryptography
+pyyaml
+tabulate
+pyopenssl
